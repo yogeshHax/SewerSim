@@ -1,0 +1,12 @@
+
+> water-resilience@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.30.199.195:3000
+✓ Ready in 337ms
+✓ Running next.config.ts took 34ms
+
+ GET / 200 in 232ms (next.js: 119ms, application-code: 113ms)
+ GET / 200 in 66ms (next.js: 4ms, application-code: 62ms)

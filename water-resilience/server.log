@@ -1,0 +1,31 @@
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.30.199.195:3000
+✓ Ready in 730ms
+✓ Running next.config.ts took 65ms
+
+ GET /simulate 200 in 319ms (next.js: 159ms, application-code: 160ms)
+ GET /simulate 200 in 51ms (next.js: 4ms, application-code: 47ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] Uncaught ReferenceError: avgAfterClear is not defined
+    at <unknown> (<anonymous>:1:969)
+ GET /simulate 200 in 31ms (next.js: 8ms, application-code: 23ms)
+✓ Compiled in 462ms
+✓ Compiled in 78ms
+ GET /simulate 200 in 27ms (next.js: 9ms, application-code: 18ms)
+ GET /simulate 200 in 48ms (next.js: 3ms, application-code: 45ms)
+✓ Compiled in 37ms
+ GET /simulate 200 in 21ms (next.js: 5ms, application-code: 17ms)
+ GET /simulate 200 in 86ms (next.js: 15ms, application-code: 71ms)
+✓ Compiled in 147ms
+ GET /simulate 200 in 20ms (next.js: 5ms, application-code: 15ms)
+ GET /simulate 200 in 30ms (next.js: 7ms, application-code: 22ms)
+✓ Compiled in 39ms
+✓ Compiled in 104ms
+✓ Compiled in 64ms
+ GET /simulate 200 in 21ms (next.js: 6ms, application-code: 15ms)
+ GET /simulate 200 in 63ms (next.js: 2ms, application-code: 60ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+ GET /simulate 200 in 38ms (next.js: 4ms, application-code: 34ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[?25h
